@@ -1,0 +1,71 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Sam Yu 
+
+Lecture section:  Mon-Wed 9:30 to 10:45am
+
+Recitation day and time:  Fridat at 10:00am
+
+Assignment #:  4
+
+Program due date:  4/4
+
+Handed in date:  4/3
+
+Source code file name(s):
+Bag.java
+CC.java
+CS1501Stream.java
+DijkstraAllPairsSP.java
+Edge.java
+EdgeWeightedGraph.java
+FlowEdge.java
+FlowNetwork.java
+FordFulkerson.java
+Graph.java
+In.java
+IndexMinPQ.java
+NetworkAnalysis.java
+Queue.java
+Stack.java
+StdIn.java
+StdOut.java
+StdRandom.java
+Vertex.java
+WeightedQuickUnionUF.java
+
+
+
+Other file name(s) (if relevant):
+None
+
+
+
+
+
+
+Does your program run without error?: Yes runs without error
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+No errors
+
+
+
+
+Additional comments to the grader:
+I am retaking the class so I reused some code from last semester. 
+Also I did an interesting way of union find. I did some hash mapping to get everyrhing
+to work correctly.
+
+
+
+
+
+
