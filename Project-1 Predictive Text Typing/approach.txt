@@ -1,0 +1,5 @@
+My approach to implementing the user history.
+When the user selects a word using choice 1,2,3,4,5 I then add that to the user history.
+Also when a user either uses $ or types too many letters. I save it and add that new word to the user history.
+Then once I have a user history I just use another DLB but with the user history as the dictionary. I take that list that is returned from searching the user history DLB and use that as the words I offer to the user. 
+If there is leftover room after finding user history words I fill the remaining spots words from searching the dictionary. I rank the most common words with a simple for loop by max ranks to put them first too.

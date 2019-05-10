@@ -1,0 +1,58 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Sam Yu
+
+Lecture section:  Mon/Wed 9:30am to 10:45am
+
+Recitation day and time:  Friday 10:00am to 10:50am
+
+Assignment #:  1
+
+Program due date: 2/5/2019  
+
+Handed in date:  2/5/2019
+
+Source code file name(s):
+ac_test.java
+
+
+
+
+
+
+Other file name(s) (if relevant):
+
+
+
+
+
+
+
+Does your program run without error?: No.
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+The DLB word search works mostly correctly. Sometimes it struggles to find the last couple words to give to the user for some reason.
+The user_history works pretty well. There shouldn't be duplicates I'm pretty sure I squashed that bug.
+Corner case when you keep typing letters without using $ and it detects that you have a new word it will accept it sometimes if you type that exact word again it will ask you to renter that word again. I think its a weird off by one error somewhere. It usually never happens though.
+
+
+
+
+
+
+Additional comments to the grader:
+Other than the two corner cases the main problem is for some reason the DLB word search dosn't find the last couple words. Shouldn't cost me too many points hopefully as it is accurate to the sample output otherwise.
+
+Sorry about the length! 800 lines.
+
+
+
+
+
