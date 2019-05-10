@@ -1,0 +1,267 @@
+Original LZW
+
+Original file size(bytes)
+
+all.tar:	3031040
+assig2.doc:  	87040
+bmps.tar: 	1105920
+code.txt: 	72351
+code2.txt:  	57701
+edit.exe: 	236328
+frosty.jpg:  	126748
+gone_fishin.bmp:17336
+large.txt:	1220703
+Lego-big.gif:  	93371
+medium.txt:  	25407
+texts.tar: 	1382400
+wacky.bmp: 	921654
+winnt256.bmp: 	157044
+
+Compressed file size(bytes)
+
+all.tar: 	1846854
+assig2.doc:  	74574
+bmps.tar: 	925079
+code.txt: 	30980
+code2.txt:	24138
+edit.exe: 	250742
+frosty.jpg:  	177453
+gone_fishin.bmp:9278
+large.txt: 	605184
+Lego-big.gif:  	128973
+medium.txt:  	13197
+texts.tar: 	1012179
+wacky.bmp: 	4302
+winnt256.bmp: 	159050
+
+Ratio Original/Compressed
+
+all.tar:	1.64119
+assig2.doc:	1.16716
+bmps.tar: 	1.19548
+code.txt: 	2.335
+code2.txt:  	2.390
+edit.exe: 	0.943
+frosty.jpg: 	.714
+gone_fishin.bmp:1.869
+large.txt:	2.017
+Lego-big.gif:	0.724
+medium.txt:	1.925
+texts.tar:	1.366
+wacky.bmp:	214.238
+winnt256.bmp:	0.987
+
+MyLZW Do Nothing Mode
+
+Original file size(bytes)
+
+all.tar:	3031040
+assig2.doc:  	87040
+bmps.tar: 	1105920
+code.txt: 	72351
+code2.txt:  	57701
+edit.exe: 	236328
+frosty.jpg:  	126748
+gone_fishin.bmp:17336
+large.txt:	1220703
+Lego-big.gif:  	93371
+medium.txt:  	25407
+texts.tar: 	1382400
+wacky.bmp: 	921654
+winnt256.bmp: 	157044
+
+Compressed file size(bytes)
+
+all.tar: 	1792780
+assig2.doc:  	40039
+bmps.tar: 	80912
+code.txt: 	24544
+code2.txt:  	20515
+edit.exe: 	156408
+frosty.jpg:  	163788
+gone_fishin.bmp:8962
+large.txt: 	501776
+Lego-big.gif:   122492
+medium.txt:  	12530
+texts.tar: 	597846
+wacky.bmp: 	3950
+winnt256.bmp: 	62930
+
+Ratio Original/Compressed
+
+all.tar: 	1.691
+assig2.doc:	2.174
+bmps.tar:	13.668
+code.txt:	2.948
+code2.txt:	2.813
+edit.exe:	1.511
+frosty.jpg:	0.774
+gone_fishin.bmp:1.934
+large.txt:	2.433
+Lego-big.gif:	0.762
+medium.txt:	2.028
+texts.tar:	2.312
+wacky.bmp:	233.330
+winnt256.bmp:	2.496
+
+
+MyLZW Reset Mode
+
+Original file size(bytes)
+
+all.tar:	3031040
+assig2.doc:  	87040
+bmps.tar: 	1105920
+code.txt: 	72351
+code2.txt:  	57701
+edit.exe: 	236328
+frosty.jpg:  	126748
+gone_fishin.bmp:17336
+large.txt:	1220703
+Lego-big.gif:  	93371
+medium.txt:  	25407
+texts.tar: 	1382400
+wacky.bmp: 	921654
+winnt256.bmp: 	157044
+
+Compressed file size(bytes)
+
+all.tar: 	11510
+assig2.doc:  	40040
+bmps.tar: 	80913
+code.txt: 	24545
+code2.txt:  	20516
+edit.exe: 	14900
+frosty.jpg:  	163789
+gone_fishin.bmp:8963
+large.txt: 	501777
+Lego-big.gif:   122493
+medium.txt:  	12531
+texts.tar: 	57700
+wacky.bmp: 	3951
+winnt256.bmp: 	62931
+
+Ratio Orginal/Compressed
+
+all.tar: 	2.57200
+assig2.doc:	2.17382
+bmps.tar:	13.6680
+code.txt:	2.94768
+code2.txt:	2.81248
+edit.exe:	1.55096
+frosty.jpg:	0.07783
+gone_fishin.bmp:1.93417
+large.txt:	2.43275
+Lego-big.gif:   0.76225
+medium.txt:	2.02753
+texts.tar:	2.34009
+wacky.bmp:	233.271
+winnt256.bmp:	2.49549
+
+
+MyLZW Monitor Mode
+
+Original file size(bytes)
+
+all.tar:	3031040
+assig2.doc:  	87040
+bmps.tar: 	1105920
+code.txt: 	72351
+code2.txt:  	57701
+edit.exe: 	236328
+frosty.jpg:  	126748
+gone_fishin.bmp:17336
+large.txt:	1220703
+Lego-big.gif:  	93371
+medium.txt:  	25407
+texts.tar: 	1382400
+wacky.bmp: 	921654
+winnt256.bmp: 	157044
+
+Compressed file size(bytes)
+
+all.tar: 	1819874
+assig2.doc:  	40040
+bmps.tar: 	80913
+code.txt: 	24545
+code2.txt:  	20516 
+edit.exe: 	156409
+frosty.jpg:  	163789
+gone_fishin.bmp:8963
+large.txt: 	501777
+Lego-big.gif:   122493
+medium.txt:  	12531
+texts.tar: 	597847
+wacky.bmp: 	3951
+winnt256.bmp: 	62931
+
+Ratio Original/Compressed
+
+all.tar: 	1.666
+assig2.doc:	2.174
+bmps.tar:	13.668
+code.txt:	2.948
+code2.txt:	2.812
+edit.exe:	1.511
+frosty.jpg:	0.774
+gone_fishin.bmp:1.934
+large.txt:	2.433
+Lego-big.gif:   0.762
+medium.txt:	2.028
+texts.tar:	2.312
+wacky.bmp:	233.271
+winnt256.bmp:	2.495
+
+
+Windows 10 File Explorer Compresssion (.zip)
+
+Original file size(bytes)
+
+all.tar:	3031040
+assig2.doc:  	87040
+bmps.tar: 	1105920
+code.txt: 	72351
+code2.txt:  	57701
+edit.exe: 	236328
+frosty.jpg:  	126748
+gone_fishin.bmp:17336
+large.txt:	1220703
+Lego-big.gif:  	93371
+medium.txt:  	25407
+texts.tar: 	1382400
+wacky.bmp: 	921654
+winnt256.bmp: 	157044
+
+Compressed file size(bytes)
+
+all.tar: 	980783
+assig2.doc:  	23001
+bmps.tar: 	64537
+code.txt: 	15668
+code2.txt:  	13860
+edit.exe: 	128202
+frosty.jpg:  	126750
+gone_fishin.bmp:8791
+large.txt: 	501923 
+Lego-big.gif:  	92571
+medium.txt:  	10985
+texts.tar: 	543247
+wacky.bmp: 	3282
+winnt256.bmp: 	50180
+
+Ratio Original/Compressed
+
+all.tar: 	3.090
+assig2.doc:  	3.784
+bmps.tar:	17.136
+code.txt: 	4.618
+code2.txt:  	4.163
+edit.exe: 	1.843
+frosty.jpg: 	1.000
+gone_fishin.bmp:1.972
+large.txt: 	2.432
+Lego-big.gif:  	1.009
+medium.txt:  	2.313
+texts.tar: 	2.545
+wacky.bmp:	280.821
+winnt256.bmp: 	3.130

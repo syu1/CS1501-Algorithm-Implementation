@@ -1,0 +1,46 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Sam Yu
+
+Lecture section: Mon/Wed 9:30am to 10:45am  
+
+Recitation day and time:  10:00am Friday
+
+Assignment #:  2
+
+Program due date: 2/26/19 11:59  
+
+Handed in date:  2/26/19 11:59 
+
+Source code file name(s):
+LZW.java
+MyLZW.java
+Queue.java
+Stdin.java
+StdOut.java
+TST.java
+
+Other file name(s) (if relevant):
+results.txt
+
+Does your program run without error?:
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+Everything runs correctly except reset and monitored expansion don't expand the last little bit. It cycles through just through resetting everything then stops randomly at i = 517 for some reason. 
+I think I'm having small syncing issue with an off by 1 error somewhere.
+
+Additional comments to the grader:
+I implemented Monitor mode compression to what was definied in the rubric. I'm pretty sure I did it correctly.
+
+
+
+
+
+
