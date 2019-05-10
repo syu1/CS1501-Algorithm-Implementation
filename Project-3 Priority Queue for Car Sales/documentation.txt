@@ -1,0 +1,26 @@
+Justifications
+I used the textbooks Binary Search Tree data structure to implement my project. When I read through the code of the binary search tree I noticed that the way the binary search tree is implemented by Sedgewick keeps track of minimum and maximum rank of nodes. Which also makes it heap based since the only definition of heap is keeping the priority element on top.
+
+
+I originally tried to use IndexMinPQ for my project but there was no way of searching through the index in a O(logn) fashion. I could only figure out a linear way to do it. By using a BST that keeps track of min and max ordering I was able to search must faster.
+Since Sedgewick implemented BST like with a heap-like structure I decided use his code.
+
+If you are reading my code you will notice that I created my 3 BSTS for efficient searching. Since there was no restriction on space complexity on this project I decided that this was the best way to have the fastest searches.
+
+One BST was using the vin number as a key and I used that for update and remove methods.
+The other two BST have different compareTo’s implemented. One has a minimum price style heap and the other BST has a minimum mileage style heap. They have the car as the key because that was just the easiest way for me to use it due to the way Sedgewick wrote his code.  
+
+The indexing was based on vin and then for the last two methods the indexing was based on rank.
+
+For updating a cars information,, my implementation has O(logn) runtime because the BST uses a binary search which is O(logn) runtime to find the requested car. In the update method there are delete, search and insert calls in sequential order. I have all three of my BSTS doing this operation. But since all those operations in a BST are logn its just 9logn which becomes O(logn) .
+
+For removing a car from the heap the 3 BSTS search through the tree/heap to find the car then delete it. This costs 6logn runtime but it reduces down to O(logn) once again.
+
+For finding the minimum price in the tree/heap all I call is the minimum method on the minimum price BST. This is O(1) runtime since it keeps minimum order.
+
+For finding the minimum mileage in the tree/heap all I call is the minimum method on the minimum mileage BST. This is O(1) runtime since it keeps minimum order.
+
+For finding the minimum price based on make and model I start at the minimum priced car and work my way up iteratively. I’m not sure the exact runtime on this actually. I think in the absolute worst case its O(n) since I’m searching through a BST I think its O(logn)
+
+For finding the minimum mileage based on make and model I start at the minimum mileage car and work my way up iteratively. I’m not sure the exact runtime on this actually. I think in the absolute worst case its O(n) since I’m searching through a BST I think its O(logn)  
+ 
