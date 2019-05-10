@@ -1,0 +1,51 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Sam Yu
+
+Lecture section:  Mon/Wed at 9:30am
+
+Recitation day and time:  Fri at 10am
+
+Assignment #:  5
+
+Program due date:  4/23/19
+
+Handed in date:  4/23/19
+
+Source code file name(s):
+
+LargeInteger.java
+RsaKeyGen.java
+RsaSign.java
+
+
+
+
+
+Other file name(s) (if relevant):
+None
+
+
+
+Does your program run without error?:No
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+My RSA gen and RsaSign work very well up to 512-bit. Sometimes you will get a bad mod inverse and you will need to run the generation again.
+
+
+
+Additional comments to the grader:
+I used BigInteger to implement the multiply, gcd and mod inverse functions.I really tried to use Kratasubas algorthim to create the multiplication and I just can't get it to work properly. I probably should have gone with the gradeschool methods I guess. I have taken this class three times now and I just can't even get this multiplcation but I got the RSA just fine. I'm just trying to graduate this semester and was hoping I might be able to get some partial credit for the multiplication part after all the years I've spent on it. Thanks!
+
+
+
+
+
+
