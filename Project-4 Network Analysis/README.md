@@ -1,5 +1,6 @@
 # CS/COE 1501 Project 4
-
+## How to run:
+When pro
 ## Goal:
 To gain a better understanding of graphs and graph algorithms through practical implementation.
 
