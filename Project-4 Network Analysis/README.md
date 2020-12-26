@@ -4,7 +4,8 @@ Run NetworkAnalysis.java with the command line input of a file to be analyzed.
 * Compile: javac NetworkAnalysis.java
 * Run with command line argument: java NetworkAnalysis network_data1.txt
 * Select types of analysis on the network.
-* Note: Minimum spanning tree algrothim can be used as aproximate to solve traveling salesman problem.
+* Note Choice 1: Solves the shortest path problem 
+* Note Choice 3: Minimum spanning tree algrothim can be used as aproximate to solve traveling salesman problem.
 ## Goal:
 To gain a better understanding of graphs and graph algorithms through practical implementation.
 
