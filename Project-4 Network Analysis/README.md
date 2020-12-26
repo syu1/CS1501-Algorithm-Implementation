@@ -1,6 +1,6 @@
 # CS/COE 1501 Project 4
 ## How to run:
-Run NetworkAnalysis.java with the command line input of a file to be analyzed
+Run NetworkAnalysis.java with the command line input of a file to be analyzed.
 Compile: javac NetworkAnalysis.java
 Run with command line argument: java NetworkAnalysis network_data1.txt
 Select types of analysis on the network.
